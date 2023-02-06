@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 
 # Welcome
-![Hello there!](hello_gif.gif)
+![Hello there!](hello_gif2.gif)
 
 🔭  I am a computer science student and I currently work on Bachelor of Science thesis.<br>
 🌱  I would like to learn Rust language.<br>
 
-Avatar image was created courtesy of:
+Avatar image was created courtesy of:<br>
 <a href="https://www.freepik.com/free-vector/hipster-portrait-animals_3797245.htm#query=panda&position=41&from_view=search&track=sph#position=41&query=panda">Image by macrovector</a> on Freepik
 and
 <a href="https://www.freepik.com/free-vector/bamboo-leaf-background_4393330.htm#query=panda&position=37&from_view=search&track=sph">Image by rawpixel.com</a> on Freepik
